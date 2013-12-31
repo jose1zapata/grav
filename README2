@@ -6,5 +6,13 @@ paso 5: aparece la consola de Git para ingresar los comandos correspondientes.
 paso 6: el primer comando a hacer es: "git clone (Direccion http de donde está ubicado el proyecto de github)"
 paso 7: hace una llave publica para programar
 paso 8: para la llave publica escribimos el siguiente comando: "ssh-keygen"
-paso 9: nos va a solicitar una direccion donde colocar la llave pública
-paso 10: probando de nuevo hes
+paso 9: nos va a solicitar una direccion donde colocar la llave pública (Recomendacion: utilizar la direccion que aparece en la linea de comando del $)
+paso 10: meter una contraseña de seguridad
+
+git init
+touch README2
+git add README2
+git commit -m "modifique el paso 10"
+git push origin master
+username:jose1zapata
+pasword:Yomelase123
