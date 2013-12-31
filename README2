@@ -1,0 +1,9 @@
+paso 1: Crear un nuevo repositorio
+paso 2: instalar git de google a traves de este enlace: https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git
+paso 3: crear una carpeta donde se va a alojar el nuevo archivo desde github
+paso 4: en la carpeta creada hacer clic derecho->git bass
+paso 5: aparece la consola de Git para ingresar los comandos correspondientes.
+paso 6: el primer comando a hacer es: "git clone (Direccion http de donde está ubicado el proyecto de github)"
+paso 7: hace una llave publica para programar
+paso 8: para la llave publica escribimos el siguiente comando: "ssh-keygen"
+paso 9: nos va a solicitar una direccion donde 
