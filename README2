@@ -9,10 +9,15 @@ paso 8: para la llave publica escribimos el siguiente comando: "ssh-keygen"
 paso 9: nos va a solicitar una direccion donde colocar la llave pública (Recomendacion: utilizar la direccion que aparece en la linea de comando del $)
 paso 10: meter una contraseña de seguridad
 
+git clone dirwensite
+ssh-keygen
+
 git init
 touch README2
 git add README2
 git commit -m "modifique el paso 10"
+
+git pull origin master
+
 git push origin master
-username:jose1zapata
-pasword:Yomelase123
+
