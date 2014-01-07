@@ -16,7 +16,7 @@ git init
 touch README2
 git add README2
 git commit -m "modifique el paso 10"
-
+git remote add origin "direccion de la cosa sin comillas"
 git pull origin master
 
 git push origin master
