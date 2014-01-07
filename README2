@@ -11,7 +11,7 @@ paso 10: meter una contraseña de seguridad
 
 git clone dirwensite
 ssh-keygen
-
+cat "direccion de la cosa"
 git init
 touch README2
 git add README2
